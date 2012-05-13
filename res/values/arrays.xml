@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="ClassifyList">
+        <item>按时间状态/热门连载/经典/已完结</item>
+        <item>按口味/萌系/治愈/宅向/番茄酱/后宫/卖肉/百合/鬼怪/激战/机甲/伪娘</item>
+        <item>按性别/女生喜欢/男生喜欢</item>
+        <item>按题材/励志/魔法/格斗/竞技/求生/热血/搞笑/科幻/恐怖/爱情/校园/悬疑</item>
+        <item>按地区/欧美/日韩/港台</item>
+    </string-array>
+</resources>
